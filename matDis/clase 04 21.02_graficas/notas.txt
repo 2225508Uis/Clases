@@ -1,0 +1,12 @@
+
+distribucion normal
+desviacion estandar
+varianza
+media
+
+F strings => formateadores de cadenas
+
+para crear un conjunto vacio se usa set() porque si se usa () se generaa un diccionario
+
+.union .intersection
+esto solo funcina con conjuntos y diccionario, no con listas y etc.
