@@ -1,4 +1,9 @@
+"""Module providingFunction printing python version."""
+import time
 import matplotlib.pyplot as plt
+
+
+
 
 # Datos de prueba
 x = [1, 2, 3, 4, 5]
@@ -19,3 +24,4 @@ plt.legend()
 
 # Mostrar gráfica
 plt.show()
+time.sleep(5)
