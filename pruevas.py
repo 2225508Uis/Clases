@@ -1,8 +1,6 @@
 """Module providingFunction printing python version."""
-import time
+
 import matplotlib.pyplot as plt
-
-
 
 
 # Datos de prueba
@@ -24,4 +22,3 @@ plt.legend()
 
 # Mostrar gráfica
 plt.show()
-time.sleep(5)
