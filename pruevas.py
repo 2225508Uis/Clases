@@ -22,4 +22,4 @@ plt.legend()
 print("superramadre")
 
 # Mostrar gráfica
-plt.show()
+plt.show(block=True)
