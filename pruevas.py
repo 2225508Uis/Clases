@@ -19,7 +19,6 @@ plt.ylabel('Eje Y')
 
 # Leyenda
 plt.legend()
-print("superramadre")
 
 # Mostrar gráfica
 plt.show()
